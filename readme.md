@@ -1,4 +1,4 @@
-# 🌐 GitHub Web Tutorial – Fork → Edit → Commit → Pull Request
+# 🌐 GitHub  Tutorial – Fork → Edit → Commit → Pull Request
 
 This guide shows you how to contribute to a project using **GitHub’s web interface** – no terminal required!  
 
@@ -42,3 +42,4 @@ This guide shows you how to contribute to a project using **GitHub’s web inter
 ---
 
 🎉 **You just contributed using GitHub’s web interface!**
+
